@@ -35,9 +35,13 @@ Languages: Python (for backend logic and algorithm), JavaScript (for frontend an
 ## Development Roadmap
 
 Phase 1: Develop the core plagiarism checking algorithm focusing on problem sets. Test it on sample data from CodeForces and CodeChef.
+
 Phase 2: Integrate the LLM App by Pathway to enhance the checker's capabilities.
+
 Phase 3: Extend the framework to support patent and academic paper verification.
+
 Phase 4: Develop the web application and user interface. Host the application on the chosen platform.
+
 Phase 5: Open-source the project on GitHub and invite the community for contributions.
 
 # Conclusion
